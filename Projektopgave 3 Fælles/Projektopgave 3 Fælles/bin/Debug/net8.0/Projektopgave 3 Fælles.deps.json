@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projektopgave 3 Fælles/1.0.0": {
+        "runtime": {
+          "Projektopgave 3 Fælles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projektopgave 3 Fælles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

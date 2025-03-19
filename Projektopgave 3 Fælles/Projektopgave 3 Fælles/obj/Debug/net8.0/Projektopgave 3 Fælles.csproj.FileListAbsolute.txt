@@ -1,0 +1,14 @@
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\bin\Debug\net8.0\Projektopgave 3 Fælles.exe
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\bin\Debug\net8.0\Projektopgave 3 Fælles.deps.json
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\bin\Debug\net8.0\Projektopgave 3 Fælles.runtimeconfig.json
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\bin\Debug\net8.0\Projektopgave 3 Fælles.dll
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\bin\Debug\net8.0\Projektopgave 3 Fælles.pdb
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\Projektopgave 3 Fælles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\Projektopgave 3 Fælles.AssemblyInfoInputs.cache
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\Projektopgave 3 Fælles.AssemblyInfo.cs
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\Projektopgave 3 Fælles.csproj.CoreCompileInputs.cache
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\Projektopgave 3 Fælles.dll
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\refint\Projektopgave 3 Fælles.dll
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\Projektopgave 3 Fælles.pdb
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\Projektopgave 3 Fælles.genruntimeconfig.cache
+C:\Users\mikpr\source\repos\Projektopgave 3 Fælles\Projektopgave 3 Fælles\obj\Debug\net8.0\ref\Projektopgave 3 Fælles.dll
